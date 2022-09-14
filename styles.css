@@ -38,11 +38,13 @@ img {
   width: 80%;
 }
 
+.button {
+  margin: 40px;
+  text-align: center;
+}
+
 .play {
-  position: relative;
-  left: 43rem;
   font-family: 'Lobster';
-  bottom: -2rem;
   padding: 10px;
   width: 8rem;
   border-radius: 4px;
